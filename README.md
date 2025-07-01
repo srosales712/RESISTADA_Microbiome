@@ -11,7 +11,7 @@
 
 
 ## Affiliated publication 
-### Beneficial and putative pathogenic bacteria shape coral survivorship under disease and nutrient challenges
+> **"Beneficial and putative pathogenic bacteria shape coral survivorship under disease and nutrient challenges"** 
 
 ## Companion Repository
 
