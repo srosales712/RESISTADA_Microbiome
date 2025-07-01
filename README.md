@@ -9,7 +9,7 @@ This is the companion repository to [anampc/Acer_NH4_disease](https://github.com
 
 > **"Genotypes of *Acropora cervicornis* in Florida show resistance to either elevated nutrients or disease, but not both in combination"**  
 > DOI: [10.1371/journal.pone.0320378](https://doi.org/10.1371/journal.pone.0320378)
-# Description:
+## Description:
 
 📂 The Data/ directory includes the associated metadata, taxonomy, and ASV files.
 
