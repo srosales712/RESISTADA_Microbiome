@@ -1,9 +1,9 @@
-# ResistADA
-## Resistance of Acropora to Disease and Ammonium
+                #<ins>**ResistADA**</ins>
+## Resistance of * *Acropora cervicornis* * to Disease and Ammonium
 ![RESISTADA_Design](https://github.com/user-attachments/assets/6b6c706b-d79f-4bbb-a8ae-1db4cbf34ceb)
 
 
-##This is the companion repository to https://github.com/anampc/Acer_NH4_disease and manuscript "Genotypes of Acropora cervicornis in Florida show resistance to either elevated nutrients or disease, but not both in combination" 
+##This is the companion repository to https://github.com/anampc/Acer_NH4_disease and the manuscript "Genotypes of Acropora cervicornis in Florida show resistance to either elevated nutrients or disease, but not both in combination" 
 DOI https://doi.org/10.1371/journal.pone.0320378 
 
 # Description:
