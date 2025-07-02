@@ -3,7 +3,8 @@
 ![RESISTADA_Design](https://github.com/user-attachments/assets/6b6c706b-d79f-4bbb-a8ae-1db4cbf34ceb)
 ## Description:
 
-📂 The Data/ directory includes the associated metadata, taxonomy, and ASV files.
+📂 The Data/ directory includes the associated metadata (metadata_RESISTADA.csv), taxonomy (taxonomy_resistada.qza), and ASV (table-BacArc_resistada.qza) tables.
+* Taxonomy and ASV files are in a compressed format (qza).
 
 🐍 The Notebook/ directory houses the R code and is provided as Python notebooks, allowing outputs to be viewed alongside the code.
 
