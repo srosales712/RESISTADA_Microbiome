@@ -13,7 +13,8 @@
 
 ## Affiliated publication 
 > **"Genotype-specific microbiome responses of Acropora cervicornis to nutrient enrichment and disease stress reveal candidate taxa linked to health"**
-> Rosales, S.M., Palacio-Castro, A.M., Enochs, I.C. et al. Genotype-specific microbiome responses of Acropora cervicornis to nutrient enrichment and disease stress reveal candidate taxa linked to health. BMC Mar. Sci. 1, 5 (2026). https://doi.org/10.1186/s44479-026-00005-0
+>
+Rosales, S.M., Palacio-Castro, A.M., Enochs, I.C. et al. Genotype-specific microbiome responses of Acropora cervicornis to nutrient enrichment and disease stress reveal candidate taxa linked to health. BMC Mar. Sci. 1, 5 (2026). https://doi.org/10.1186/s44479-026-00005-0
 
 ## Companion Repository
 
